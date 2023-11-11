@@ -2,15 +2,17 @@
 
 ### Conóceme un poco...
 
-
 - 🔭 Trabajo: Docente en IFDyT 9002 Normal "Tomás Godoy Cruz" - DGE-Mendoza
-- 🌱 Formándome en Licenciatura en Ciencias de la Educación - UCA Mendoza
-- 🔧 Formándome en Tecnicatura Universitaria en Programación - UTN-FRSR
-- 💬 Lingüística - Educación en TIC - Desarrollo de Software
-- 📧 Mail: ilfmontiel@gmail.com
-
   
-** 🟢✔Puedes preguntarme sobre...** 
+- 🌱 Formándome en Licenciatura en Ciencias de la Educación - UCA Mendoza
+  
+- 🔧 Formándome en Tecnicatura Universitaria en Programación - UTN-FRSR
+  
+- 💬 Lingüística - Educación en TIC - Desarrollo de Software
+  
+- 📧 Mail: ilfmontiel@gmail.com
+  
+**🟢✔Puedes preguntarme sobre...** 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
